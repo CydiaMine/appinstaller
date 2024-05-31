@@ -1,6 +1,5 @@
-# EditReadMe
-Discover the latest in iOS jailbreaking with Cydia Mine. Learn how to use CydiaMine and the specail features of CydiaMine.
 # CydiaMine
+Discover the latest in iOS jailbreaking with Cydia Mine. Learn how to use CydiaMine and the specail features of CydiaMine.
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXzBUFL-rSSSq3ELCjFUJZ7510bCp6l3zhwSTcYsBCfboYzmAcskWInL0tgLWomOmedOA&usqp=CAU.">
 
