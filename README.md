@@ -1,7 +1,8 @@
 # CydiaMine
 Discover the latest in iOS jailbreaking with Cydia Mine. Learn how to use CydiaMine and the specail features of CydiaMine.
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXzBUFL-rSSSq3ELCjFUJZ7510bCp6l3zhwSTcYsBCfboYzmAcskWInL0tgLWomOmedOA&usqp=CAU.">
+<img src="https://github.com/CydiaMine/appinstaller/assets/171231087/596fed39-69e9-48c4-b233-0353524fe066">
+
 
 
 CydiaMine is set to become the default package manager for the Dopamine jailbreak tool. Currently, it is exclusively available for Dopamine. Support for other jailbreak tools is not yet available.
