@@ -1,5 +1,5 @@
 # CydiaMine
-Discover the latest in iOS jailbreaking with Cydia Mine. Learn how to use CydiaMine and the specail features of CydiaMine.
+
 
 <img src="https://github.com/CydiaMine/appinstaller/assets/171231087/18d54c39-501a-4c34-8b8b-4313a8450021">
 
