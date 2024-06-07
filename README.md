@@ -10,9 +10,10 @@ CydiaMine is set to become the default package manager for the Dopamine jailbrea
 ## Installing CydiaMine
 
 We will be releasing the tutorial for CydiaMine (Cydia for Dopamine) as soon as possible. Stay tuned for updates. 
-CydiaMine has released on June 4th. But Sunst⭐️r_A16 has released an incompleted version of CydiaMine. 
 
-__Supported versions__
+* . CydiaMine has released on June 4th . But Sunst⭐️r_A16 has released an incompleted version of CydiaMine. 
+
+## Supported versions
 
 CydiaMine is only compatible with Dopamine-supported iOS and iPadOS versions. Compatibility with the latest releases and other versions is not available now.
 
