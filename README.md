@@ -18,8 +18,7 @@ CydiaMine is only compatible with Dopamine-supported iOS and iPadOS versions. Co
 
 ## Release Date 
 
-
-CydiaMine has released to the public on June 4th . But Sunst⭐️r_A16 has released an incompleted version of CydiaMine.
+Sunst⭐️r_A16 (@Sunstar_16) tweeted on June 4 that CYDIAMINE IS OUT (incomplete), describing it as more of a demo rather than a final version because it reads from the rootfull path /etc/ instead of /var/jb/etc/apt/preferences.d/. Currently, users can only search for tweaks and view their already installed tweaks.
 
 ## Why CydiaMine?
 
